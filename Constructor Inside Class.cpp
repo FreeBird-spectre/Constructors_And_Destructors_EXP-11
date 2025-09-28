@@ -14,8 +14,7 @@ public:
     }
 
     void display() {
-        cout << "\nStudent Name: " << name;
-        cout << "\nFee: " << fee << endl;
+        cout << "Student Name: " << name << "\nFee: " << fee << endl;
     }
 };
 
@@ -25,11 +24,10 @@ int main() {
     return 0;
 }
 
-Enter the name of Student: Abir 
-Enter the fee: 65900
-
+Enter the name of Student: Abir
+Enter the fee: 34000
 Student Name: Abir
-Fee: 65900
+Fee: 34000
 
 
 === Code Execution Successful ===
