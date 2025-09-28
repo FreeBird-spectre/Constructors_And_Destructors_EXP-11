@@ -1,3 +1,6 @@
+//Abir Seth
+//PRN-24070123003
+//ENYTC A1
 #include <iostream>
 using namespace std;
 
